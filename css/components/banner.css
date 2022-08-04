@@ -1,0 +1,17 @@
+.banner {
+  background-image: url("/images/6EEE67E4-AE24-48D5-86E0-D585BF7EF8C4_1_105_c.jpeg");
+  background-size: cover;
+  color: white;
+  background-position: center;
+  padding: 100px 0;
+  width: 100%;
+}
+
+.banner p {
+  margin-bottom: 35px;
+  color: white;
+}
+
+.banner h1 {
+  color: white;
+}
